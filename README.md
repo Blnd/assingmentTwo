@@ -1,3 +1,6 @@
-# Ruby on Rails Tutorial: sample application
+# Ruby on Rails Tutorial:
 
-This is a sample application created for Advaned web technology by Botan Burhan
+Blnd Najmadin
+blnd.najmading@auis.edu.iq
+
+This is my assingment for Ruby on Rails Advanced Web Technologies
